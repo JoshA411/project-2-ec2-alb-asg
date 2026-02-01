@@ -34,3 +34,6 @@ This project demonstrates a highly available web application architecture on AWS
 - HTTPS using ACM
 - Centralised logging with CloudWatch
 - Infrastructure as Code using Terraform
+
+- This project was rebuilt in a cost-optimised configuration without a NAT Gateway
+- Infrastructure is not kept running permanenlty to avoid unnecessary charges
